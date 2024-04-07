@@ -7,3 +7,5 @@ Explore topics spanning data science, web development, all crafted with care and
 Join me on this journey of exploration and discovery. Let's connect, learn, and grow together in this digital space I've created just for you.
 
 Dive into the content, explore at your leisure, and let's make the web a more exciting place together.
+
+VISIT MY SITE - darshanpatelportfolio.netlify.app
