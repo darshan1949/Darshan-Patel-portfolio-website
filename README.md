@@ -8,4 +8,4 @@ Join me on this journey of exploration and discovery. Let's connect, learn, and 
 
 Dive into the content, explore at your leisure, and let's make the web a more exciting place together.
 
-VISIT MY SITE - darshanpatelportfolio.netlify.app
+#VISIT MY SITE - darshanpatelportfolio.netlify.app
